@@ -20,4 +20,4 @@ Saya adalah pengembang perangkat lunak yang fokus pada pembuatan antarmuka pengg
 * **S1 Teknik Informatika** - [Souwka] (2020 - 2026)
 
 ### 📞 Kontak
-[rafaelsoka@gmail.com]
+[rafaelsoka91@gmail.com]
